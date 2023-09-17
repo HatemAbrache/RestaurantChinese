@@ -1,0 +1,12 @@
+body {
+    background-color: rgb(161, 69, 62);
+    font-family: 'oxygen', sans-serif;
+}
+
+#header-nav {
+    background-color: #f6b319;
+}
+
+#logo-img {
+    background-image: url('https://github.com/jhu-ep-coursera/fullstack-course4/tree/master/examples/Lecture30/after/images/Restaurant-logo-large.png'), no-repeat;
+}
